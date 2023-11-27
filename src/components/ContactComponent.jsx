@@ -10,7 +10,7 @@ import {
 import emailjs from "@emailjs/browser";
 import { MdEmail } from "react-icons/md";
 import { BsGithub, BsTwitter } from "react-icons/bs";
-import Fade from "react-reveal/Fade";
+import { Fade } from "react-awesome-reveal";
 import { toast, Toaster } from "react-hot-toast";
 const ContactComponent = () => {
   const form = useRef();

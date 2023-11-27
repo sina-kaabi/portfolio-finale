@@ -2,7 +2,7 @@
 import React from "react";
 import { CircularProgressbar, buildStyles } from "react-circular-progressbar";
 import "react-circular-progressbar/dist/styles.css";
-import Fade from "react-reveal/Fade";
+import { Fade } from "react-awesome-reveal";
 import workingExperience from "../script/WorkingExperience.js";
 import Experience from "../script/Experience";
 import Education from "../script/Education";

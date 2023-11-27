@@ -1,0 +1,6 @@
+{
+    "build": {
+      "postinstall": "npm install --force"
+    }
+  }
+  

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "portofolio-official",
+			"path": "../../../../../repos/portofolio-official"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Main File"
+	}
+}

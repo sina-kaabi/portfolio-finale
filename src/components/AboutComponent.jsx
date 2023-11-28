@@ -37,7 +37,7 @@ const AboutComponent = () => {
                       <div className='img__file relative z-20 hidden before:absolute before:left-[16px] before:top-[-16px] before:z-[-9] before:h-full before:w-full before:border-[5px] before:border-[#17B978] before:content-[""] md:block'>
                         <img
                           className="h-48 w-full rounded-md object-cover md:h-full md:w-[250px]"
-                          src="/Assets/Images/profile.png"
+                          src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701199849/profiles_qe9qbg.png"
                           alt="NetGrid - Next JS Portfolio Template"
                         />
                       </div>

@@ -46,7 +46,7 @@ const AboutComponent = () => {
                         <div className="flex h-[150px] w-[150px] items-center justify-center overflow-hidden rounded-full ring-4 ring-[#373D4D] ring-offset-0">
                           <img
                             className="object-cover "
-                            src="/Assets/Images/profile.png"
+                            src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701199849/profiles_qe9qbg.png"
                             alt="NetGrid - Next JS Portfolio Template"
                           />
                         </div>

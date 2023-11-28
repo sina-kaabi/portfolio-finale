@@ -34,7 +34,7 @@ export default function HomeComponent() {
                         <div>
                           <Image
                             className="object-cover "
-                            src={"/Assets/Images/profile.png"}
+                            src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701199849/profiles_qe9qbg.png"
                             alt="NetGrid - Next JS Portfolio Template"
                             width={500}
                             height={500}

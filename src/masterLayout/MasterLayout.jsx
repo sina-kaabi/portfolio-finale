@@ -21,7 +21,7 @@ const MasterLayout = (props) => {
           <div className="hidden md:flex justify-center items-center  logo py-10 w-[80px] h-[80px] rounded-full overflow-hidden ring-offset-0 ring-2 ring-[#373D4D]">
             <Image
               className="object-cover  w-[80px] h-[80px] "
-              src="/Assets/Images/profile.png"
+              src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701199849/profiles_qe9qbg.png"
               alt=""
               width={500}
               height={500}

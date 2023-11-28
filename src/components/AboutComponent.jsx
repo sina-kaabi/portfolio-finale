@@ -225,7 +225,7 @@ const AboutComponent = () => {
                         <div>
                           <img
                             className="w-[50px]"
-                            src="/Assets/Images/working.png"
+                            src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701210379/working_x1khq2.png"
                             alt="NetGrid - Next JS Portfolio Template"
                           />
                         </div>
@@ -267,7 +267,7 @@ const AboutComponent = () => {
                         <div>
                           <img
                             className="w-[50px]"
-                            src="/Assets/Images/college-graduation.png"
+                            src="https://res.cloudinary.com/dgujhumkc/image/upload/v1701210611/college-graduation_xnydc6.png"
                             alt="NetGrid - Next JS Portfolio Template"
                           />
                         </div>

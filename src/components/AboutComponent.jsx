@@ -65,7 +65,7 @@ const AboutComponent = () => {
                             <li className="mb-2 text-sm text-slate-400">
                               Name:
                               <span className="pl-2 text-base font-medium text-slate-200">
-                                Sina Kabi
+                                Sina Kaabi
                               </span>
                             </li>
                             <li className="mb-2 text-sm text-slate-400">

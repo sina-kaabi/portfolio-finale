@@ -20,15 +20,15 @@ const ContactComponent = () => {
     // Please See Documentation for more information
     emailjs
       .sendForm(
-        "service_ljx76ce", //YOUR_SERVICE_ID
-        "template_71bgc2q", //YOUR_TEMPLATE_ID
+        "service_g4k3l71", //YOUR_SERVICE_ID
+        "template_suizz9a", //YOUR_TEMPLATE_ID
         form.current,
-        "cwf8kROl5o3__96Ti" //YOUR_PUBLIC_KEY
+        "hD6HBRhkERUe64On1" //YOUR_PUBLIC_KEY
       )
       .then(
         (result) => {
           if (result.text === "OK") {
-            toast.success("Massage Sent Successfully!");
+            toast.success("Message Sent Successfully!");
             form.current[0].value = "";
             form.current[1].value = "";
             form.current[2].value = "";
@@ -37,7 +37,7 @@ const ContactComponent = () => {
         },
         (error) => {
           if (error.text !== "OK") {
-            toast.success("Massage Not Sent!");
+            toast.success("Message Not Sent!");
           }
         }
       );

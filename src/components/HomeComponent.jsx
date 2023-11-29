@@ -115,7 +115,7 @@ export default function HomeComponent() {
                   <div className="download__resume mt-8 flex justify-center">
                     <div>
                       <a
-                        href="/Assets/pdf/SinaKaabiResume-RevisedOriginal (2).pdf"
+                        href="https://drive.google.com/uc?id=1bZi2hFb5c92mfozUhJAItokw8N42wZw-"
                         download
                       >
                         <button className="my__btn   text-base">

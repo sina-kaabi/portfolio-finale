@@ -124,16 +124,19 @@ export default function HomeComponent() {
                       </a>
                       <br />
                       <br />
-                      <a href="https://game-hub-sand-three.vercel.app">
+                      <a
+                        href="https://game-hub-sand-three.vercel.app"
+                        target=" _blank"
+                      >
                         <button className="my__btn   text-base">
                           Project 1 - React UI
                         </button>
                       </a>
                       <br />
                       <br />
-                      <a href="https://pocketpos.netlify.app">
+                      <a href="https://pocketpos.netlify.app" target=" _blank">
                         <button className="my__btn   text-base">
-                          Project 2 - HTML UI
+                          Project 2 - SaaS UI
                         </button>
                       </a>
                     </div>

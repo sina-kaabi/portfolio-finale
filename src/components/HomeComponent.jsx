@@ -122,6 +122,20 @@ export default function HomeComponent() {
                           Download CV
                         </button>
                       </a>
+                      <br />
+                      <br />
+                      <a href="https://game-hub-sand-three.vercel.app">
+                        <button className="my__btn   text-base">
+                          Project 1 - React UI
+                        </button>
+                      </a>
+                      <br />
+                      <br />
+                      <a href="https://pocketpos.netlify.app">
+                        <button className="my__btn   text-base">
+                          Project 2 - HTML UI
+                        </button>
+                      </a>
                     </div>
                   </div>
                 </div>

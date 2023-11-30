@@ -139,6 +139,8 @@ export default function HomeComponent() {
                           Project 2 - SaaS UI
                         </button>
                       </a>
+                      <br />
+                      <br />
                     </div>
                   </div>
                 </div>

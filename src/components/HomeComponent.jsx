@@ -135,11 +135,7 @@ export default function HomeComponent() {
                       <br />
                       <br />
                       <a href="https://pocketpos.netlify.app" target=" _blank">
-                        <button
-                          className="my__btn   text-base"
-                          style="margin-bottom: 10px;
-                          "
-                        >
+                        <button className="my__btn   text-base thirdButton">
                           Project 2 - SaaS UI
                         </button>
                       </a>
